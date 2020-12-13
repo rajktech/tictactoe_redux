@@ -1,0 +1,36 @@
+.square {
+  background-color: yellow;
+  width: 120px;
+  display:inline-block;
+  float:left;
+  border: #000 solid 2px;
+  text-align: center;
+  height: 120px;
+  line-height: 100px;
+  font-size: 50px;;
+}
+
+.cont {
+  width: 470px;
+  margin: 0px auto;
+}
+
+.restart_btn {
+  font-size:16px;
+}
+
+.winner_msg {
+  color: green;
+}
+
+.draw_msg {
+  color:red;
+}
+
+.font24 {
+  font-size: 24px;
+}
+
+.clearboth {
+  clear: both;
+}
